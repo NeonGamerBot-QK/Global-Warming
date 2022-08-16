@@ -1,0 +1,6 @@
+<div class="images">
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Health_effects_of_pollution.png/1024px-Health_effects_of_pollution.png" style="background: white;width:500px;height:300px;"/> 
+<img src="https://elevenmyanmar.com/sites/news-eleven.com/files/styles/news_detail_image/public/news-images/77886f07-62b9-4b7f-8635-d6df9c7f47f1.jpeg?itok=TAmgeZOj" width="300" height="300">
+<img src="https://www.divephotoguide.com/images/lightboximage/orig/1506555671.jpg" width="300" height="300">
+<img src="https://www.socialistsanddemocrats.eu/sites/default/files/styles/meta_tags/public/single-use-plastics.jpg?itok=Zog_oyLi" width="300" height="300">
+</div>
